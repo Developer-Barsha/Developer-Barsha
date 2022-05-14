@@ -5,12 +5,11 @@
   <h1 align="center">✨ Hi there!! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> ✨ </h1>
   <h3 align="center">Welcome to my profile 😀</h3>
 </div>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developer-barsha&theme=compact" />
-<a href="https://www.instragram.com/lamiabarsha/" target="_blank" rel="noopener"><p align="center"> <img src="https://rawcdn.githack.com/progmamun/programming-hero/5e7a9d93012540777c2880f116cd243fc3df4e85/milestone-9/v0.2.svg" alt="" /> </a>
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developer-barsha&theme=compact" />
 <table>
   <tr>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=developer-barsha&layout=compact&show_icons=true&title_color=ffffff&icon_color=F5618D&text_color=ffffff&bg_color=a189ff"/></td>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=developer-barsha&theme=compact&layout=compact&show_icons=true&title_color=ffffff&icon_color=F5618D&text_color=ffffff&bg_color=a189ff"/></td>
     <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=developer-barsha&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/></td>
   </tr><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=developer-barsha&" alt="developer-barsha" />
 </table>
