@@ -44,16 +44,19 @@
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=developer-barsha&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/> -->
   
+  <table>
+  <tr>
+    <td>
+      - 🔭 I’m currently working on a react project
+      - 🌱 I’m currently learning mongodb
+      - 📫 How to reach me: lamiatabassumbarsha@gmail.com
+      - 😄 Pronouns: She/Her
+      - ⚡ Fun fact: I love spicy foods
+    </td>
+    <td><img src='https://user-images.githubusercontent.com/22479692/123986644-65364080-d9be-11eb-8f4f-857c21e774fb.gif' alt='Hello'/></td>
+  </tr>
+</table>
 
-## Some informations about me:
 
-- 🔭 I’m currently working on a react project
-- 🌱 I’m currently learning mongodb
-- 📫 How to reach me: lamiatabassumbarsha@gmail.com
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I love spicy foods
 
 <img src='https://cdn.dribbble.com/users/846207/screenshots/9192312/office-desk-animation.gif' alt='Hello'/>
-<img src='https://user-images.githubusercontent.com/22479692/123986644-65364080-d9be-11eb-8f4f-857c21e774fb.gif' alt='Hello'/>
-
-
