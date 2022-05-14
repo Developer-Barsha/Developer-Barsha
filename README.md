@@ -1,4 +1,4 @@
-<table>
+<table align="center" border="none">
 <tr>
   <td>
     <img src='https://www.newlife-ivf.co.uk/assets/images/neli-animation-landing.gif' alt='Hello'/>
