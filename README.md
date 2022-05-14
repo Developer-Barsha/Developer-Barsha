@@ -2,9 +2,11 @@
   <p align="center">
     <img src='https://www.newlife-ivf.co.uk/assets/images/neli-animation-landing.gif' alt='Hello'/>
   </p>
-  <h1 align="center">✨ Hi there!! 👋 ✨ </h1>
+  <h1 align="center">✨ Hi there!! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> ✨ </h1>
   <h3 align="center">Welcome to my profile 😀</h3>
 </div>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developer-barsha&theme=compact" />
+<a href="https://www.instragram.com/lamiabarsha/" target="_blank" rel="noopener"><p align="center"> <img src="https://rawcdn.githack.com/progmamun/programming-hero/5e7a9d93012540777c2880f116cd243fc3df4e85/milestone-9/v0.2.svg" alt="" /> </a>
 
 <table>
   <tr>
