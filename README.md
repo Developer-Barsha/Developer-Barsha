@@ -1,12 +1,10 @@
 <tr>
   <td>
-    <p align="center">
     <img src='https://www.newlife-ivf.co.uk/assets/images/neli-animation-landing.gif' alt='Hello'/>
-  </p>
   </td>
   <td>
-    <h1 align="center">✨ Hi there!! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> ✨ </h1>
-    <h3 align="center">🦋 Welcome to my profile 😀 🦋</h3>
+    <h1 align="right">✨ Hi there!! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> ✨ </h1>
+    <h3 align="right">🦋 Welcome to my profile 😀 🦋</h3>
   </td>
 </tr>
 
@@ -24,9 +22,9 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developer-barsha&theme=compact" />
 <table>
   <tr>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=developer-barsha&layout=compact"/></td>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=developer-barsha&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/></td>
-    <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=developer-barsha&" alt="developer-barsha" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=developer-barsha&layout=compact"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=developer-barsha&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=developer-barsha&" alt="developer-barsha" /></td>
   </tr>
 </table>
 <!-- <p>&nbsp; -->
