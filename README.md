@@ -29,12 +29,11 @@
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=developer-barsha&theme=compact"/></td>
     <td><img src="https://github-readme-stats.vercel.app/api?username=developer-barsha&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/></td>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=developer-barsha&" alt="developer-barsha" /></td>
   </tr>
 </table>
 <!-- <p>&nbsp; -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=developer-barsha&show_icons=true&locale=en&layout=compact" alt="developer-barsha" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=developer-barsha&" alt="developer-barsha" /></p>
 
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=developer-barsha&show_icons=true&locale=en" alt="developer-barsha" /></p>
 
