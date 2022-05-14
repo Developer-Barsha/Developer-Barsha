@@ -4,9 +4,9 @@
     <img src='https://www.newlife-ivf.co.uk/assets/images/neli-animation-landing.gif' alt='Hello'/>
   </td>
   <td>
-    <h1> Hi!! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+    <h1> Hi there!! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
     <h3>✨ Trying to be a junior developer ✨</h3>
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=developer-barsha&label=Profile%20views&color=0e75b6&style=flat" alt="developer-barsha" /> </p>
+    <p> <img src="https://komarev.com/ghpvc/?username=developer-barsha&label=Profile%20views&color=0e75b6&style=flat" alt="developer-barsha" />       </p>
   </td>
 </tr>
  </table>
