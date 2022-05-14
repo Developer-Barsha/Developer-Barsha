@@ -50,7 +50,7 @@
       <ul>
         <li>🔭 Working on a react project</li>
         <li>🌱 Currently learning mongodb</li>
-        <li>📫 lamiatabassumbarsha@gmail.com</li>
+        <li>📫lamiatabassumbarsha@gmail.com</li>
         <li>😄 Pronouns: She/Her</li>
         <li>⚡ Fun fact: I love spicy foods</li>
       </ul> 
