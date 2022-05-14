@@ -46,11 +46,11 @@
   <table>
   <tr>
     <td>
-      ## Some facts
+      <h4 color="f5618d">Some facts</h4>
       <ul>
         <li>🔭 I’m currently working on a react project</li>
         <li>🌱 Currently learning mongodb</li>
-        <li>📫 How to reach me: lamiatabassumbarsha@gmail.com</li>
+        <li>📫 lamiatabassumbarsha@gmail.com</li>
         <li>😄 Pronouns: She/Her</li>
         <li>⚡ Fun fact: I love spicy foods</li>
       </ul> 
