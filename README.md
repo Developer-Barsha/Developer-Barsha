@@ -1,6 +1,8 @@
-<h1 align="center">✨ Hi there!! 👋 ✨ Welcome to my profile 😀</h1>
-<h3 align="center">A junior developer from Bangladesh</h3>
-
+<div display="flex">
+  <img src='https://www.newlife-ivf.co.uk/assets/images/neli-animation-landing.gif' alt='Hello'/>
+  <h1 align="center">✨ Hi there!! 👋 ✨ Welcome to my profile 😀</h1>
+  <h3 align="center">A junior developer from Bangladesh</h3>
+</div>
 ## Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a react project
@@ -10,8 +12,8 @@
 - ⚡ Fun fact: I love spicy foods
 
 <img src='https://cdn.dribbble.com/users/846207/screenshots/9192312/office-desk-animation.gif' alt='Hello'/>
-<img src='https://cdn.dribbble.com/users/2382464/screenshots/4996846/chris-dribbbble-romper.gif' alt='Hello'/>
-<img src='https://www.newlife-ivf.co.uk/assets/images/neli-animation-landing.gif' alt='Hello'/>
+<img src='https://user-images.githubusercontent.com/22479692/123986644-65364080-d9be-11eb-8f4f-857c21e774fb.gif' alt='Hello'/>
+
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=developer-barsha" alt="developer-barsha" /></a> </p>
