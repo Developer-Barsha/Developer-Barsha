@@ -1,12 +1,14 @@
+<table>
 <tr>
   <td>
     <img src='https://www.newlife-ivf.co.uk/assets/images/neli-animation-landing.gif' alt='Hello'/>
   </td>
   <td>
-    <h1>✨ Hi there!! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> ✨ </h1>
-    <h3>🦋 Welcome to my profile 😀 🦋</h3>
+    <h1 align="right">✨ Hi there!! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> ✨ </h1>
+    <h3 align="right">🦋 Welcome to my profile 😀 🦋</h3>
   </td>
 </tr>
+ </table>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
