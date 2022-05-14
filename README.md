@@ -9,7 +9,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developer-barsha&theme=compact" />
 <table>
   <tr>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=developer-barsha&theme=compact&layout=compact&show_icons=true&title_color=ffffff&icon_color=F5618D&text_color=ffffff&bg_color=a189ff"/></td>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=developer-barsha&layout=compact&show_icons=true&title_color=ffffff&icon_color=F5618D&text_color=ffffff&bg_color=a189ff"/></td>
     <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=developer-barsha&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/></td>
   </tr><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=developer-barsha&" alt="developer-barsha" />
 </table>
