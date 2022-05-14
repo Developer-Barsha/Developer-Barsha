@@ -36,7 +36,7 @@
   
    <tr>
     <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=developer-barsha&text_color=f5618d&bg_color=0a0d38" alt="developer-barsha" /></td>
-    <td><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=developer-barsha&show_icons=true&text_color=f5618d&bg_color=0a0d38&locale=en" alt="developer-barsha" /></p></td>
+<!--     <td><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=developer-barsha&show_icons=true&text_color=f5618d&bg_color=0a0d38&locale=en" alt="developer-barsha" /></p></td> -->
     <td>
   </tr>
   
