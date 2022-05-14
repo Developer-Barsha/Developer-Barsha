@@ -9,6 +9,9 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love spicy foods
 
+<img src='https://cdn.dribbble.com/users/846207/screenshots/9192312/office-desk-animation.gif' alt='Hello'/>
+<img src='https://cdn.dribbble.com/users/2382464/screenshots/4996846/chris-dribbbble-romper.gif' alt='Hello'/>
+<img src='https://www.newlife-ivf.co.uk/assets/images/neli-animation-landing.gif' alt='Hello'/>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=developer-barsha" alt="developer-barsha" /></a> </p>
