@@ -4,14 +4,13 @@
     <img src='https://www.newlife-ivf.co.uk/assets/images/neli-animation-landing.gif' alt='Hello'/>
   </td>
   <td>
-    <h1 align="right">✨ Hi!! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> ✨ </h1>
-    <h3 align="right">🦋 Trying to be a junior developer 🦋</h3>
+    <h1> Hi!! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+    <h3>✨ Trying to be a junior developer ✨</h3>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=developer-barsha&label=Profile%20views&color=0e75b6&style=flat" alt="developer-barsha" /> </p>
   </td>
 </tr>
  </table>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=developer-barsha&label=Profile%20views&color=0e75b6&style=flat" alt="developer-barsha" /> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/15308844" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15308844" height="30" width="40" /></a>
@@ -47,6 +46,7 @@
   <table>
   <tr>
     <td>
+      ## Some facts
       - 🔭 I’m currently working on a react project
       - 🌱 I’m currently learning mongodb
       - 📫 How to reach me: lamiatabassumbarsha@gmail.com
