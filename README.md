@@ -6,8 +6,10 @@
   <td>
     <h1> Hi there!! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
     <h3>✨ Trying to be a junior developer ✨</h3>
-    <p> <img src="https://komarev.com/ghpvc/?username=developer-barsha&label=Profile%20views&color=0e75b6&style=flat" alt="developer-barsha" />       </p>
-    <img src="https://img.shields.io/github/followers/developer-barsha?style=social">
+    <h5>My name is Barsha. Currently learning web development from programming hero. I know HTML, CSS, BOOTSTRAP, TAILWIND, REACT, JAVASCRIPT, EXPRESS, MONGODB, FIREBASE.</h5>
+    <p>
+      <img src="https://img.shields.io/github/followers/developer-barsha?style=social">
+      <img src="https://komarev.com/ghpvc/?username=developer-barsha&label=Profile%20views&color=0e75b6&style=flat" alt="developer-barsha" />       </p>
   </td>
 </tr>
  </table>
