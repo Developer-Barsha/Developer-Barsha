@@ -28,12 +28,6 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy&text_color=f5618d&bg_color=0a0d38"><img src="https://github-profile-trophy.vercel.app/?username=developer-barsha" alt="developer-barsha" /></a> </p>
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=developer-barsha&text_color=f5618d&bg_color=0a0d38" style="max-width:100%;">
-
-<img src="https://github-readme-stats.vercel.app/api?username=developer-barsha&show_icons=true&title_color=a189ff&icon_color=FFCA28&text_color=f5618d&bg_color=0a0d38" width="300" data-canonical-src="https://intro.rustbridge.com/img/ferris.gif" style="max-width:100%;">
-</p>
-
 <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=developer-barsha&theme=compact&text_color=f5618d&bg_color=0a0d38"/></td>
