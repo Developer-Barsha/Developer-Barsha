@@ -31,7 +31,7 @@
 <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=developer-barsha&theme=compact"/></td>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=developer-barsha&show_icons=true&title_color=a189ff&icon_color=34abeb&text_color=f5618d&bg_color=151515"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=developer-barsha&show_icons=true&title_color=a189ff&icon_color=FFCA28&text_color=f5618d&bg_color=151515"/></td>
   </tr>
 </table>
 <!-- <p>&nbsp; -->
