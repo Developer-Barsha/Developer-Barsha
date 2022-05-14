@@ -47,11 +47,13 @@
   <tr>
     <td>
       ## Some facts
-      - 🔭 I’m currently working on a react project
-      - 🌱 I’m currently learning mongodb
-      - 📫 How to reach me: lamiatabassumbarsha@gmail.com
-      - 😄 Pronouns: She/Her
-      - ⚡ Fun fact: I love spicy foods
+      <ul>
+        <li>🔭 I’m currently working on a react project</li>
+        <li>🌱 Currently learning mongodb</li>
+        <li>📫 How to reach me: lamiatabassumbarsha@gmail.com</li>
+        <li>😄 Pronouns: She/Her</li>
+        <li>⚡ Fun fact: I love spicy foods</li>
+      </ul> 
     </td>
     <td><img src='https://user-images.githubusercontent.com/22479692/123986644-65364080-d9be-11eb-8f4f-857c21e774fb.gif' alt='Hello'/></td>
   </tr>
