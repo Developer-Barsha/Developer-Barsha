@@ -46,9 +46,9 @@
   <table>
   <tr>
     <td>
-      <h4 color="f5618d">Some facts</h4>
+      <h2>🦋 Some facts :-</h2>
       <ul>
-        <li>🔭 I’m currently working on a react project</li>
+        <li>🔭 Working on a react project</li>
         <li>🌱 Currently learning mongodb</li>
         <li>📫 lamiatabassumbarsha@gmail.com</li>
         <li>😄 Pronouns: She/Her</li>
