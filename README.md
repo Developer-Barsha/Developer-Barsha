@@ -4,12 +4,14 @@
     <img src='https://www.newlife-ivf.co.uk/assets/images/neli-animation-landing.gif' alt='Hello'/>
   </td>
   <td>
-    <h1 align="right">✨ Hi there!! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> ✨ </h1>
-    <h3 align="right">🦋 Welcome to my profile 😀 🦋</h3>
+    <h1 align="right">✨ Hi!! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> ✨ </h1>
+    <h3 align="right">🦋 Trying to be a junior developer 🦋</h3>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=developer-barsha&label=Profile%20views&color=0e75b6&style=flat" alt="developer-barsha" /> </p>
   </td>
 </tr>
  </table>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=developer-barsha&label=Profile%20views&color=0e75b6&style=flat" alt="developer-barsha" /> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/15308844" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15308844" height="30" width="40" /></a>
@@ -32,11 +34,17 @@
 </table>
 <!-- <p>&nbsp; -->
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=developer-barsha&" alt="developer-barsha" /></p>
+<table>
+  <tr>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=developer-barsha&" alt="developer-barsha" /></td>
+    <td><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=developer-barsha&show_icons=true&locale=en" alt="developer-barsha" /></p></td>
+  </tr>
+</table>
 
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=developer-barsha&show_icons=true&locale=en" alt="developer-barsha" /></p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=developer-barsha&label=Profile%20views&color=0e75b6&style=flat" alt="developer-barsha" /> </p>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=developer-barsha&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/> -->
+  
+
 ## Some informations about me:
 
 - 🔭 I’m currently working on a react project
