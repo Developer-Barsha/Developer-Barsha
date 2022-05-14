@@ -36,7 +36,6 @@
   
    <tr>
     <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=developer-barsha&text_color=f5618d&bg_color=0a0d38" alt="developer-barsha" /></td>
-<!--     <td><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=developer-barsha&show_icons=true&text_color=f5618d&bg_color=0a0d38&locale=en" alt="developer-barsha" /></p></td> -->
      
     <td><img src='https://user-images.githubusercontent.com/22479692/123986644-65364080-d9be-11eb-8f4f-857c21e774fb.gif' alt='Hello'/></td>
   </tr>
@@ -52,7 +51,7 @@
         <li>⚡ Fun fact: I love spicy foods</li>
       </ul> 
     </td>
-<!--     <td><img src='https://user-images.githubusercontent.com/22479692/123986644-65364080-d9be-11eb-8f4f-857c21e774fb.gif' alt='Hello'/></td> -->
+    <td><img src='https://user-images.githubusercontent.com/22479692/123986644-65364080-d9be-11eb-8f4f-857c21e774fb.gif' alt='Hello'/></td>
   </tr>
 </table>
 
