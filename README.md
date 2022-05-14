@@ -9,7 +9,7 @@
     <h5>My name is Barsha. Currently learning web development from programming hero. I know HTML, CSS, BOOTSTRAP, TAILWIND, REACT, JAVASCRIPT, EXPRESS, MONGODB, FIREBASE.</h5>
     <p>
       <img src="https://img.shields.io/github/followers/developer-barsha?style=social&text_color=f5618d&bg_color=0a0d38">
-      <img src="https://komarev.com/ghpvc/?username=developer-barsha&label=Profile%20views&color=0e75b6&style=flat" alt="developer-barsha" />       </p>
+      <img src="https://komarev.com/ghpvc/?username=developer-barsha&label=Profile%20views&color=0e75b6&style=flat&text_color=f5618d&bg_color=0a0d38" alt="developer-barsha" />       </p>
   </td>
 </tr>
  </table>
@@ -32,22 +32,8 @@
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=developer-barsha&theme=compact&text_color=f5618d&bg_color=0a0d38"/></td>
     <td><img src="https://github-readme-stats.vercel.app/api?username=developer-barsha&show_icons=true&title_color=a189ff&icon_color=FFCA28&text_color=f5618d&bg_color=0a0d38"/></td>
-  </tr>
-</table>
-<!-- <p>&nbsp; -->
-
-<table>
-  <tr>
     <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=developer-barsha&text_color=f5618d&bg_color=0a0d38" alt="developer-barsha" /></td>
-    <td><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=developer-barsha&show_icons=true&text_color=f5618d&bg_color=0a0d38&locale=en" alt="developer-barsha" /></p></td>
-  </tr>
-</table>
-
-
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=developer-barsha&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/> -->
-  
-  <table>
-  <tr>
+<!--     <td><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=developer-barsha&show_icons=true&text_color=f5618d&bg_color=0a0d38&locale=en" alt="developer-barsha" /></p></td> -->
     <td>
       <h2>🦋 Some facts :-</h2>
       <ul>
