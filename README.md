@@ -56,6 +56,6 @@
 
 <style>
 td, th {
-   border: none!important;
+   border: 0px !important;
 }
 </style>
