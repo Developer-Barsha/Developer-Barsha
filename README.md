@@ -54,3 +54,8 @@
 
 <!-- &show_icons=true&title_color=ffffff&icon_color=F5618D&text_color=ffffff&bg_color=a189ff -->
 
+<style>
+td, th {
+   border: none!important;
+}
+</style>
