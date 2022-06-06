@@ -35,7 +35,7 @@
    </tr>
 </table>  
 
- <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=developer-barsha&text_color=f5618d&bg_color=0a0d38" alt="developer-barsha" /></p>
+<!--  <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=developer-barsha&text_color=f5618d&bg_color=0a0d38" alt="developer-barsha" /></p> -->
   
  <table>
   <tr>
