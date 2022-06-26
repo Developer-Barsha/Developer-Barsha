@@ -1,4 +1,4 @@
-    <h1> Hi there!! </h1>
+<h1> Hi there!! </h1>
     <h3>✨ Trying to be a junior developer ✨</h3>
     <h5>My name is Barsha. Currently learning web development from programming hero. I know HTML, CSS, BOOTSTRAP, TAILWIND, REACT, JAVASCRIPT, EXPRESS, MONGODB, FIREBASE.</h5>
     <p>
