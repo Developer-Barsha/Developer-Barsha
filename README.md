@@ -1,18 +1,9 @@
-<table align="center" border="0px">
-<tr>
-  <td>
-    <img src='https://www.newlife-ivf.co.uk/assets/images/neli-animation-landing.gif' alt='Hello'/>
-  </td>
-  <td>
     <h1> Hi there!! </h1>
     <h3>✨ Trying to be a junior developer ✨</h3>
     <h5>My name is Barsha. Currently learning web development from programming hero. I know HTML, CSS, BOOTSTRAP, TAILWIND, REACT, JAVASCRIPT, EXPRESS, MONGODB, FIREBASE.</h5>
     <p>
       <img src="https://img.shields.io/github/followers/developer-barsha?style=social&text_color=f5618d&bg_color=0a0d38">
       <img src="https://komarev.com/ghpvc/?username=developer-barsha&label=Profile%20views&color=0e75b6&style=flat&text_color=f5618d&bg_color=0a0d38" alt="developer-barsha" />       </p>
-  </td>
-</tr>
- </table>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
