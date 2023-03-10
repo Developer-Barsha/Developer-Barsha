@@ -1,5 +1,5 @@
 <h1> Hi there!! </h1>
-    <p>✨ Trying to be a junior developer ✨</p>
+    <p>✨ A junior developer ✨</p>
     <p>My name is Barsha. Currently learning web development from programming hero. I know HTML, CSS, BOOTSTRAP, TAILWIND, REACT, JAVASCRIPT, EXPRESS, MONGODB, FIREBASE.</p>
     <p>
       <img src="https://img.shields.io/github/followers/developer-barsha?style=social&text_color=f5618d&bg_color=0a0d38">
